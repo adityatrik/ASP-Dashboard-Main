@@ -110,7 +110,7 @@ export default function DashboardAppPage() {
           </Grid> */}
 
           <Grid item xs={12} sm={6} md={4}>
-            <AppWidgetSummary title="Perangkat Terhubun" total={jumlahDevice} color="info" icon={'material-symbols:alarm'} />
+            <AppWidgetSummary title="Perangkat Terhubung" total={jumlahDevice} color="info" icon={'material-symbols:alarm'} />
           </Grid>
 
           <Grid item xs={12} sm={6} md={4}>
